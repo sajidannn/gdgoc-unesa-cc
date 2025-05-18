@@ -24,7 +24,7 @@ project-root/
 1. Clone repository yang sudah disiapkan oleh instruktur (link repo akan dibagikan secara terpisah):
 
 ```bash
-git clone <URL-REPO-DARI-INSTRUKTUR>
+git clone https://github.com/sajidannn/gdgoc-unesa-cc
 ```
 
 2. Periksa folder `frontend/` dan `backend/`.
@@ -75,6 +75,8 @@ Setelah berhasil:
 3. Sertakan file `README.md` berisi:
    - Deskripsi singkat project
    - Screenshot hasil running frontend yang berjalan dan berhasil fetch service backend
+     ![image](https://github.com/user-attachments/assets/68f32458-d0a3-41c8-8f61-d666fa68be04)
+
 
 4. Push image backend dan frontend Anda ke Docker Hub
    - Sertakan nama image dan tag pada README.md Anda
