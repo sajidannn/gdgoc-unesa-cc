@@ -21,13 +21,15 @@ project-root/
 
 ### 📥 Langkah Awal
 
-1. Clone repository yang sudah disiapkan oleh instruktur (link repo akan dibagikan secara terpisah):
+Clone repository ini:
 
 ```bash
 git clone https://github.com/sajidannn/gdgoc-unesa-cc
 ```
 
-2. Periksa folder `frontend/` dan `backend/`.
+### 🔧 Buat Dockerfile yang belum dikonfigurasi 
+
+Periksa folder `frontend/` dan `backend/`.
 
    - File `Dockerfile` untuk `frontend` **belum dikonfigurasi** dengan baik.
    - Silakan buat `Dockerfile` tersebut agar dapat build image React/Vite app dengan benar.
@@ -74,7 +76,8 @@ Setelah berhasil:
 
 3. Sertakan file `README.md` berisi:
    - Deskripsi singkat project
-   - Screenshot hasil running frontend yang berjalan dan berhasil fetch service backend
+   - Screenshot hasil running frontend yang (inspect/developer mode yang menunjukkan app frontend berhasil melakukan request ke service backend)
+     contohnya kaya gini:
      ![image](https://github.com/user-attachments/assets/68f32458-d0a3-41c8-8f61-d666fa68be04)
 
 
